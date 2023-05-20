@@ -18,7 +18,7 @@ My expertise in Java, Spring Boot, MVC, HTML, CSS, DSA, MYSQL, etc. Thank you so
 <a href="https://www.github.com/akshay01207" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/akshay01207?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/akshay01207" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/akshay01207?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/followers/akshay01207?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 <a href="http://www.linkedin.com/in/akshay-kumar-dr869/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
